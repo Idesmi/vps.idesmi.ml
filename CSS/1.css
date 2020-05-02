@@ -29,3 +29,18 @@
 	width:			100%;
 	object-fit:	cover;
 }
+
+.buttons2 {
+	height:						20px;
+	width:						100px;
+	position:					absolute;
+	bottom:						1px;
+	right:						1px;	
+	color:            white;
+	background-color: #191970;
+	font-size:				0.37em;
+	font-family:			Cozette, FiraCode, monospace;
+	border:						none;
+	text-decoration:	none;
+	padding:					0px 0px;
+}
