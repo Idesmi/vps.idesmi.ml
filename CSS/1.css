@@ -1,0 +1,31 @@
+.canvas1 {
+	background-color:	#191970;
+	color:						white;
+	margin:						0 auto;
+	font-family:			FiraGO, FiraCode, sans-serif;
+	text-align:				center;
+	font-size:				1.25em;
+	max-width:				90%;
+}
+
+.buttons1 {
+	height:						40px;
+	width:						240px;
+	color:            white;
+	background-color: #18498E;
+	font-size:				1.07em;
+	font-family:			Cozette, FiraCode, monospace;
+}
+
+.wrapper1 {
+	display:								grid;
+	grid-gap:								1rem;
+	grid-template-columns:	2fr 2fr 5fr;
+	align-items:						stretch;
+	justify-items:					center;
+}
+
+.wrapper1__img {
+	width:			100%;
+	object-fit:	cover;
+}
